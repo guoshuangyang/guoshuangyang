@@ -3,7 +3,7 @@
 
 - 🇨🇳 I am now working in Suzhou, Jiangsu Province
 - 🌱 I’m currently learning Vite2 Vue3 TypeScript
-- 📫 How to reach me (email): [email](guoshuangyang0@163.com)
+- 📫 How to reach me (email): <a href="mailto:guoshuangyang0@163.com">Email</a>
 - 🤩 If you think my repository is interesting or useful, give me a star, please.
 - 😳 Learning vue3 source code
 
